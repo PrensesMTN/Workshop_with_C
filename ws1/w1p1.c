@@ -5,7 +5,7 @@ void main()
     char last_name[] = "Metin";
     unsigned long int studentID = 2166021001;
     printf("Workshop 1 Part-1\n");
-    printf("=================");
+    printf("=================\n");
     printf("I'm displaying this using the 'printf' stdio\n");
     printf("(standard input output) library function!\n");
     printf("Dear teacher,\n");
