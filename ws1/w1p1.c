@@ -16,3 +16,8 @@ void main()
     printf("%s  %s \n", first_name,last_name);
     printf("Student ID# %lu",studentID);   
 }  
+
+
+// PS D:\belgeler\Workshop_with_C\ws1> gcc w1p2.c -o prog_w1p2
+// PS D:\belgeler\Workshop_with_C\ws1> gcc w1p2.c -o prog_w1p2 -Wall
+//PS D:\belgeler\Workshop_with_C\ws1> .\prog_w1p2.exe  

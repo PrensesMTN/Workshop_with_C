@@ -15,7 +15,7 @@ void main()
     printf("%c-----<t>=====<t>-----\n\n",tab);
     printf("\\ this is a back-slash character!\n");
     printf("%c this is a percent sign character!\n",percent_sign);
-    printf("\'\""" this is a double-quote character!\n\n");
+    printf("\""" this is a double-quote character!\n\n");
     printf("My favourite quotes are:\n");
     printf("1.%c\"Skill is only developed by hours and hours of work.\" \n",tab);
     printf("%c%c%c%c%c%c-Usain Bolt\n",tab,tab,tab,tab,tab,tab);
@@ -26,3 +26,8 @@ void main()
     printf("%c%c%c%c%c%c-A.P.J. Abdul Kalam",tab,tab,tab,tab,tab,tab);
 
 }
+
+
+// PS D:\belgeler\Workshop_with_C\ws1> gcc w1p2.c -o prog_w1p2
+// PS D:\belgeler\Workshop_with_C\ws1> gcc w1p2.c -o prog_w1p2 -Wall
+//PS D:\belgeler\Workshop_with_C\ws1> .\prog_w1p2.exe  
